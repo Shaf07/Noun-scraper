@@ -29,3 +29,5 @@ def searchFile():
     removeArticles(theText)
 
 searchFile()
+
+
